@@ -1,4 +1,4 @@
-🦜🔗 LangChain Learning Hub
+# LangChain Learning Hub
 A comprehensive collection of my journey mastering LangChain, LangSmith, and LangGraph for building production-ready agentic workflows.
 
 📖 About This Repository
@@ -9,20 +9,20 @@ This repo documents my hands-on exploration of the LangChain ecosystem—from ba
 │   ├── 
 
 🚀 Quick Start
-bash# Clone the repository
-git clone https://github.com/yourusername/langchain-learning.git
+### Clone the repository
+git clone [https://github.com/yourusername/langchain-learning.git](https://github.com/Somnath1998-hub/LangChain.git)
 cd langchain-learning
 
-# Create virtual environment
+### Create virtual environment
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 
-# Set up environment variables
+### Set up environment variables
 cp .env.example .env
-# Add your API keys to .env
+#### Add your API keys to .env
 
 📚 Key Topics Covered
 
